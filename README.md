@@ -1,0 +1,69 @@
+### [My LeetCode Profile](https://leetcode.com/g0rdonL/)
+
+credits to [leetcode-editor](https://github.com/shuzijun/leetcode-editor) intellij plugin
+
+## Progress
+
+<!--START_SECTION_FLAG-->
+![LeetCode Stats](https://leetcard.jacoblin.cool/g0rdonL?theme=nord&font=Ubuntu%20Mono)
+<!--END_SECTION_FLAG-->
+
+## leetcode-editor config
+
+CodeFileName:
+
+```java
+$!velocityTool.camelCaseName(${question.titleSlug})
+```
+
+### Java config
+
+TempFilePath:
+
+```
+/Users/gordonlee/dev/leetcode-solutions/java
+```
+
+CodeTemplate:
+
+```java
+package leetcode.editor.en;
+
+public class $!velocityTool.camelCaseName(${question.titleSlug}){
+    
+    // Question ${question.frontendQuestionId}
+    public static void main(String[]args){
+        new $!velocityTool.camelCaseName(${question.titleSlug})().new Solution();
+    }
+    
+    ${question.code}
+}
+```
+### SQL config
+
+TempFilePath:
+
+```
+/Users/gordonlee/dev/leetcode-solutions/sql
+```
+
+CodeTemplate:
+
+```java
+// Question ${question.frontendQuestionId}
+${question.code}
+```
+### TypeScript config
+
+TempFilePath:
+
+```
+/Users/gordonlee/dev/leetcode-solutions/ts
+```
+
+CodeTemplate:
+
+```java
+// Question ${question.frontendQuestionId}
+${question.code}
+```
