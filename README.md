@@ -16,14 +16,6 @@ CodeFileName:
 $!velocityTool.camelCaseName(${question.titleSlug})
 ```
 
-### Java config
-
-TempFilePath:
-
-```
-/Users/gordonlee/dev/leetcode-solutions/java
-```
-
 CodeTemplate:
 
 ```java
@@ -38,32 +30,4 @@ public class $!velocityTool.camelCaseName(${question.titleSlug}){
     
     ${question.code}
 }
-```
-### SQL config
-
-TempFilePath:
-
-```
-/Users/gordonlee/dev/leetcode-solutions/sql
-```
-
-CodeTemplate:
-
-```java
-// Question ${question.frontendQuestionId}
-${question.code}
-```
-### TypeScript config
-
-TempFilePath:
-
-```
-/Users/gordonlee/dev/leetcode-solutions/ts
-```
-
-CodeTemplate:
-
-```java
-// Question ${question.frontendQuestionId}
-${question.code}
 ```
