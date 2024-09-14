@@ -51,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/g0rdonL/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/g0rdonL/leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/g0rdonL/leetcode-solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
