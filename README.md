@@ -1,5 +1,10 @@
-# leetcode
+### [My LeetCode Profile](https://leetcode.com/g0rdonL/)
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+## Progress
+<!--START_SECTION_FLAG-->
+![LeetCode Stats](https://leetcard.jacoblin.cool/g0rdonL?theme=nord&font=Ubuntu%20Mono)
+<!--END_SECTION_FLAG-->
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
