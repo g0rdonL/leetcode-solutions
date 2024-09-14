@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/g0rdonL/leetcode/tree/master/0007-reverse-integer) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/g0rdonL/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/g0rdonL/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/g0rdonL/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/g0rdonL/leetcode-solutions/tree/master/2491-smallest-even-multiple) |
