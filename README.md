@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/g0rdonL/leetcode-solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/g0rdonL/leetcode-solutions/tree/master/0066-plus-one) |
 | [0485-max-consecutive-ones](https://github.com/g0rdonL/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [1168-duplicate-zeros](https://github.com/g0rdonL/leetcode-solutions/tree/master/1168-duplicate-zeros) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/g0rdonL/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/g0rdonL/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/g0rdonL/leetcode-solutions/tree/master/1505-create-target-array-in-the-given-order) |
@@ -115,4 +116,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/g0rdonL/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1168-duplicate-zeros](https://github.com/g0rdonL/leetcode-solutions/tree/master/1168-duplicate-zeros) |
 <!---LeetCode Topics End-->
