@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/g0rdonL/leetcode/tree/master/0007-reverse-integer) |
 | [2383-add-two-integers](https://github.com/g0rdonL/leetcode/tree/master/2383-add-two-integers) |
+## Array
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/g0rdonL/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/g0rdonL/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
