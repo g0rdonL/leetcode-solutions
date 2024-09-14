@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/g0rdonL/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/g0rdonL/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/g0rdonL/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2714-left-and-right-sum-differences](https://github.com/g0rdonL/leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
 ## Simulation
 |  |
 | ------- |
@@ -49,4 +50,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/g0rdonL/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
+| [2714-left-and-right-sum-differences](https://github.com/g0rdonL/leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
