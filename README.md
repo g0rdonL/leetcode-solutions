@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/g0rdonL/leetcode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/g0rdonL/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/g0rdonL/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/g0rdonL/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/g0rdonL/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/g0rdonL/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/g0rdonL/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/g0rdonL/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/g0rdonL/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/g0rdonL/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/g0rdonL/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0782-jewels-and-stones](https://github.com/g0rdonL/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/g0rdonL/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/g0rdonL/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
