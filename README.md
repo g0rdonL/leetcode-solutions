@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/g0rdonL/leetcode-solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/g0rdonL/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/g0rdonL/leetcode-solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/g0rdonL/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/g0rdonL/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/g0rdonL/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/g0rdonL/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/g0rdonL/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/g0rdonL/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
