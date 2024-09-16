@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/g0rdonL/leetcode-solutions/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/g0rdonL/leetcode-solutions/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/g0rdonL/leetcode-solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/g0rdonL/leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Array
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/g0rdonL/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/g0rdonL/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2714-left-and-right-sum-differences](https://github.com/g0rdonL/leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/g0rdonL/leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
 |  |
 | ------- |
