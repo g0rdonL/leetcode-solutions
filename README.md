@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/g0rdonL/leetcode-solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/g0rdonL/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/g0rdonL/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/g0rdonL/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/g0rdonL/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0978-valid-mountain-array](https://github.com/g0rdonL/leetcode-solutions/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/g0rdonL/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/g0rdonL/leetcode-solutions/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/g0rdonL/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/g0rdonL/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/g0rdonL/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/g0rdonL/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/g0rdonL/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/g0rdonL/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/g0rdonL/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/g0rdonL/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/g0rdonL/leetcode-solutions/tree/master/1168-duplicate-zeros) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/g0rdonL/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/g0rdonL/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Recursion
 |  |
