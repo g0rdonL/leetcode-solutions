@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/g0rdonL/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/g0rdonL/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/g0rdonL/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/g0rdonL/leetcode-solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/g0rdonL/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/g0rdonL/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0978-valid-mountain-array](https://github.com/g0rdonL/leetcode-solutions/tree/master/0978-valid-mountain-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/g0rdonL/leetcode-solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/g0rdonL/leetcode-solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/g0rdonL/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/g0rdonL/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
